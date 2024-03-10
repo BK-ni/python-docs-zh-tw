@@ -445,6 +445,7 @@ msgstr ""
 #: ../../library/logging.rst:340
 msgid "Adds the specified handler *hdlr* to this logger."
 msgstr ""
+"新增指定 handler *hdlr* 至該 logger"
 
 #: ../../library/logging.rst:345
 msgid "Removes the specified handler *hdlr* from this logger."
